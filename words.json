@@ -1,6 +1,4 @@
 {
-  "words": [
-    { "word": "apple", "definition": "A fruit" },
-    { "word": "banana", "definition": "Another fruit" }
-  ]
+  "fa": "سیب",
+  "en": "apple"
 }
