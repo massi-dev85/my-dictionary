@@ -1,3 +1,22 @@
 [
-  { "fa": "سیب", "en": "apple" }
+  { "fa": "سیب", "en": "apple" },
+  { "fa": "کتاب", "en": "book" },
+  { "fa": "پسر", "en": "boy" },
+  { "fa": "دختر", "en": "girl" },
+  { "fa": "گلابی", "en": "pear" },
+  { "fa": "گل", "en": "flower" },
+  { "fa": "مادر", "en": "mother" },
+  { "fa": "پدر", "en": "father" },
+  { "fa": "خانه", "en": "house" },
+  { "fa": "مداد", "en": "pencil" },
+  { "fa": "خودکار", "en": "pen" },
+  { "fa": "میز", "en": "table" },
+  { "fa": "صندلی", "en": "chair" },
+  { "fa": "درخت", "en": "tree" },
+  { "fa": "آب", "en": "water" },
+  { "fa": "نان", "en": "bread" },
+  { "fa": "مدرسه", "en": "school" },
+  { "fa": "دوست", "en": "friend" },
+  { "fa": "ماشین", "en": "car" },
+  { "fa": "خیابان", "en": "street" }
 ]
