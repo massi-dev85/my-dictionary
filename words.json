@@ -1,25 +1,6 @@
 {
   "words": [
-
-    {
-      "word": "hello",
-      "definition": "A greeting used to say hi."
-    },
-    {
-      "word": "world",
-      "definition": "The earth or the universe."
-    }
-    {
-      "word": "apple",
-      "definition": "A fruit that is typically round and red, green, or yellow."
-    },
-    {
-      "word": "banana",
-      "definition": "A long, curved fruit with a yellow peel."
-    },
-    {
-      "word": "cherry",
-      "definition": "A small, round fruit that is red or black."
-    }
+    { "word": "apple", "definition": "A fruit" },
+    { "word": "banana", "definition": "Another fruit" }
   ]
 }
